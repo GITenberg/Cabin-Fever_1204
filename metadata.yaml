@@ -1,0 +1,33 @@
+_repo: Cabin-Fever_1204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: The prolific author Bertha Muzzy Bower lived on a number of Western ranches
+  and farms in her day and was intimately acquainted with the creeping solitude that
+  can surround those who spend time alone on the range. In Cabin Fever, Bower weaves
+  a subtle psychological thriller into the familiar Western landscape that serves
+  as the setting for her most acclaimed works.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Fiction'
+- GITenberg
+title: Cabin Fever
+url: http://www.gutenberg.org/ebooks/1204
