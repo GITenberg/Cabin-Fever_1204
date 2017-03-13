@@ -1,5 +1,8 @@
 _repo: Cabin-Fever_1204
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -15,6 +18,8 @@ description: The prolific author Bertha Muzzy Bower lived on a number of Western
   can surround those who spend time alone on the range. In Cabin Fever, Bower weaves
   a subtle psychological thriller into the familiar Western landscape that serves
   as the setting for her most acclaimed works.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1204#Cabin-Fever
 gutenberg_bookshelf: Western
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
